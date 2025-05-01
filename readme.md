@@ -1,6 +1,11 @@
 # Feedback Gardenscpr - for Synthux Audrey II
 ## Custom top plate and knobs built on top of the Synthux Designer Simple kit
 
+♻️🌲This Feedback Gardenscape is not made by Synthux, but is a diy cosmetic alternative by me jonwtr.
+
+Link to official Synthux page about Audrey ii: https://www.synthux.academy/audrey-ii
+
+### Intro / about
 As Audrey is built on top of the Synthux Designer Simple kit, and I had a spare one, I made my own interpretation upon Roey's design using some elements I've been experimenting with: custom 3D printed knobs, lasercutting, landscape elements.
 I'm using a design reminiscent of crop circles, of which I thought when hearing the mysterious horrorscape sounds.
 
